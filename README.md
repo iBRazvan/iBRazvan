@@ -1,5 +1,5 @@
 
-<img width="100%" height="auto" src="https://i.redd.it/wmf4pf98d4l61.png" />
+<img width="100%" height="auto" src="https://github.com/iBRazvan/iBRazvan/blob/main/banner.png?raw=true" />
 
 <hr/>
 
