@@ -8,9 +8,9 @@
 
 <hr/>
 
-![iBRazvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBRazvan&show_icons=true&theme=vision-friendly-dark)
+![iBRazvan's GitHub stats](https://github-readme-sigma-five.vercel.app/api?username=iBRazvan&show_icons=true&theme=vision-friendly-dark)
 
-![iBRazvan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iBRazvan&layout=compact&theme=vision-friendly-dark)
+![iBRazvan's GitHub stats](https://github-readme-sigma-five.vercel.app/api/top-langs/?username=iBRazvan&layout=compact&theme=vision-friendly-dark)
 
 <hr/>
 
