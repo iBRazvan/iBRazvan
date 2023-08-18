@@ -4,7 +4,7 @@
 <hr/>
 
 <h1 align="center">Hi 👋, I'm Ionut-Razvan Botezatu!</h1>
-<h3 align="center">A passionate junior Front-End Developer from Romania. <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></h3>
+<h3 align="center">A passionate FE Mern stack Developer from Romania. <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></h3>
 
 <hr/>
 
