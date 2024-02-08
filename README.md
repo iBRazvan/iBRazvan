@@ -8,7 +8,6 @@
 
 <hr/>
 
-<a href="https://app.daily.dev/razvanbotez"><img src="https://api.daily.dev/devcards/4f70fc9618174f30a44754d2fd3f9934.png?r=jve" width="400" alt="Ionut Razvan Botezatu's Dev Card"/></a>
 
 ![iBRazvan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iBRazvan&show_icons=true&theme=vision-friendly-dark)
 
